@@ -1,0 +1,2 @@
+rootProject.name='SSLPinning03'
+include ':app'
